@@ -44,3 +44,8 @@ $$
  ---
 ### Cкриншоты
 ![alt](./repo/browser_Glazkov.png)
+![alt](./repo/backend_Glazkov.png)
+![alt](./repo/terminal_Glazkov.png)
+![alt](./repo/git_Glazkov.png)
+
+### Итог: Мы затронули все изученные аспекты в данном направлении
